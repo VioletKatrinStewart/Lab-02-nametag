@@ -38,6 +38,13 @@ main {
     width: 400px;
 }
 
+footer {
+    height: 35px;
+    background-color: red;
+    width: 400px;
+    margin-left: 10px;
+    border-radius: 0px 0px 20px 20px;
+}
 
 * {
     box-sizing: border-box;
